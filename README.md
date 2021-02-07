@@ -1,4 +1,4 @@
-# Design Pattern: Abstrct Factory
+# Design Pattern: Abstract Factory
 
 This is a simple example of the abstract factory design pattern. I wrote a blog post about it:
 https://seism0saurus.de/design-pattern-abstract-factory.html (German)
